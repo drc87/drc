@@ -21,3 +21,5 @@ WebUI.openBrowser('automationpractice.com')
 
 WebUI.delay(5)
 
+WebUI.delay(1)
+
